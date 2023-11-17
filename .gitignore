@@ -1,0 +1,9 @@
+﻿
+*.json
+*.txt
+# Ignora todos los archivos .log
+*.log
+# Pero no ignora important.log, incluso si está en la lista de ignorados
+!important.log
+# Ignora todos los archivos en la carpeta /temp
+/temp/*

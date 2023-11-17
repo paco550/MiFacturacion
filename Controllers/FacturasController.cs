@@ -59,5 +59,8 @@ namespace MiFacturacion.Controllers
             // Si se encontraron facturas, los devuelve
             return Ok(facturas);
         }
+
+        // Devolver las facturas pagadas.
+
     }
 }
