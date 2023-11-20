@@ -3348,11 +3348,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pacof\\Desktop\\WebApiMiBiblioteca\\MiFacturacion\\MiFacturacion.csproj",
+      "projectUniqueName": "C:\\Users\\pacof\\Desktop\\Api.net\\MiFacturacion\\MiFacturacion.csproj",
       "projectName": "MiFacturacion",
-      "projectPath": "C:\\Users\\pacof\\Desktop\\WebApiMiBiblioteca\\MiFacturacion\\MiFacturacion.csproj",
+      "projectPath": "C:\\Users\\pacof\\Desktop\\Api.net\\MiFacturacion\\MiFacturacion.csproj",
       "packagesPath": "C:\\Users\\pacof\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pacof\\Desktop\\WebApiMiBiblioteca\\MiFacturacion\\obj\\",
+      "outputPath": "C:\\Users\\pacof\\Desktop\\Api.net\\MiFacturacion\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

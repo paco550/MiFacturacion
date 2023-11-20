@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f7sRxZul31vC9qMCMOoFasBj56K/pJxPJbILhcn6JaCP09H2N1b+aCtg0sBaMBqMoKbqf58vpZER4VErVdjIaQ==",
+  "dgSpecHash": "8aE+ai7ZRcjojcEy0/jqKAd0d6NJqN279RLo6U6n0YDT/YR48PI8sS61TNVCZgpAgt0XoC4iSaga6WCjvourGw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pacof\\Desktop\\WebApiMiBiblioteca\\MiFacturacion\\MiFacturacion.csproj",
+  "projectFilePath": "C:\\Users\\pacof\\Desktop\\Api.net\\MiFacturacion\\MiFacturacion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pacof\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\pacof\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
